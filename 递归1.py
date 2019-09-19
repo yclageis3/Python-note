@@ -12,4 +12,5 @@ def dump(n):
     else:
         return dump(n-1) + dump(n-1) + dump(n-3)    
 
-    pass
+n = 6
+print(dump(n))
