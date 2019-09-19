@@ -1,0 +1,2 @@
+# Python-note
+Savor Python
